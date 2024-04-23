@@ -1,0 +1,15 @@
+C:\Users\jonas\OneDrive\Área de Trabalho\AP1_prog\AP_1\bin\Debug\net8.0\AP_1.exe
+C:\Users\jonas\OneDrive\Área de Trabalho\AP1_prog\AP_1\bin\Debug\net8.0\AP_1.deps.json
+C:\Users\jonas\OneDrive\Área de Trabalho\AP1_prog\AP_1\bin\Debug\net8.0\AP_1.runtimeconfig.json
+C:\Users\jonas\OneDrive\Área de Trabalho\AP1_prog\AP_1\bin\Debug\net8.0\AP_1.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\AP1_prog\AP_1\bin\Debug\net8.0\AP_1.pdb
+C:\Users\jonas\OneDrive\Área de Trabalho\AP1_prog\AP_1\obj\Debug\net8.0\AP_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas\OneDrive\Área de Trabalho\AP1_prog\AP_1\obj\Debug\net8.0\AP_1.AssemblyInfoInputs.cache
+C:\Users\jonas\OneDrive\Área de Trabalho\AP1_prog\AP_1\obj\Debug\net8.0\AP_1.AssemblyInfo.cs
+C:\Users\jonas\OneDrive\Área de Trabalho\AP1_prog\AP_1\obj\Debug\net8.0\AP_1.csproj.CoreCompileInputs.cache
+C:\Users\jonas\OneDrive\Área de Trabalho\AP1_prog\AP_1\obj\Debug\net8.0\AP_1.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\AP1_prog\AP_1\obj\Debug\net8.0\refint\AP_1.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\AP1_prog\AP_1\obj\Debug\net8.0\AP_1.pdb
+C:\Users\jonas\OneDrive\Área de Trabalho\AP1_prog\AP_1\obj\Debug\net8.0\AP_1.genruntimeconfig.cache
+C:\Users\jonas\OneDrive\Área de Trabalho\AP1_prog\AP_1\obj\Debug\net8.0\ref\AP_1.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\AP1_prog\AP_1\obj\Debug\net8.0\AP_1.sourcelink.json
